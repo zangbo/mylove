@@ -74,6 +74,11 @@ body {
 	font-size: 14px
 }
 
+#lisa{
+	margin-left: -40px;
+	font-size: 16px
+}
+
 #code .string {
 	color: #2a36ff
 }

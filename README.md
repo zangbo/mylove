@@ -1,4 +1,4 @@
-这是一个送给我女朋友Lisa的生日礼物，地址：https://mylove.zangbo.me
+这是一个送给我女朋友Lisa的生日礼物，地址：http://mylove.zangbo.me
 </br>
 项目来源是：http://github.com/hackerzhou/Love
 </br>
